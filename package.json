@@ -1,0 +1,30 @@
+{
+  "name": "interviews",
+  "version": "0.0.0",
+  "description": "implementations of interview questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "./_run.rb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbuckheit/interviews.git"
+  },
+  "keywords": [
+    "interview",
+    "algorithms",
+    "ruby",
+    "coffeescript"
+  ],
+  "author": "Ryan Buckheit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbuckheit/interviews/issues"
+  },
+  "homepage": "https://github.com/rbuckheit/interviews#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "coffee-script": "^1.10.0",
+    "lodash": "^3.10.1"
+  }
+}
